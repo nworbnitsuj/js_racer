@@ -1,3 +1,21 @@
 body {
-  background-color: orange;
+  background-color: gold;
+}
+
+table {
+  background-color: black;
+}
+
+.square {
+  height: 15px;
+  width: 30px;
+  background-color: white;
+}
+
+#p1 {
+  background-color: red;
+}
+
+#p2 {
+  background-color: blue;
 }
